@@ -23,7 +23,7 @@ namespace firstClass
             {
                 for (int i = 0; i < students.Length; i++)
                 {
-                    if (answer == students[i].Name)
+                    if (answer.ToLower() == students[i].Name.ToLower())
                     {
                         Console.WriteLine($"{students[i].Name} is student in {students[i].Academy} in {students[i].Group} group.");
                         studentFound = true;

@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\firstClass\firstClass\obj\Debug\firstClass.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\firstClass\firstClass\obj\Debug\firstClass.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\firstClass\firstClass\bin\Debug\firstClass.exe.config
-C:\Users\Asus\source\repos\firstClass\firstClass\bin\Debug\firstClass.exe
-C:\Users\Asus\source\repos\firstClass\firstClass\bin\Debug\firstClass.pdb
-C:\Users\Asus\source\repos\firstClass\firstClass\obj\Debug\firstClass.exe
-C:\Users\Asus\source\repos\firstClass\firstClass\obj\Debug\firstClass.pdb
